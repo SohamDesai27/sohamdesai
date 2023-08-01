@@ -23,5 +23,8 @@ As an aspiring and enthusiastic learner in the field of technology, I am an engi
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <br />
 
+#
+
+<details>
  <summary><h3>👨‍💻 Soham's Learning Journey</h3></summary>
    As a passionate and ambitious information technology student, my journey began with an insatiable thirst for knowledge in coding, Unix, Linux, and theoretical concepts. Fueled by a burning desire to become a versatile engineer, I embraced continuous learning, determined to explore new horizons. My vision encompasses building an extraordinary app, utilizing cutting-edge Cloud technologies like Azure and AWS, and delving into the captivating world of Machine Learning with TensorFlow and Scikit-learn. Armed with a diverse set of programming languages and databases, including Python, C, JavaScript, SQL, Microsoft SQL Server, MySQL, and Couchbase, I am prepared to embrace challenges and push beyond my comfort zone, driven by an unwavering passion to achieve greatness and make my dreams a reality.
