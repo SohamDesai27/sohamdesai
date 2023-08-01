@@ -2,7 +2,7 @@
 
 **`Engineer(DevOps/Analyst/Machine Learning)`**
 
-As an aspiring and enthusiastic learner in the field of technology, I am an engineer who is enthusiast about DevOps, Data Analysis, and Machine Learning I am passionate about the intersection of technology and innovation, and I am always looking for new ways to learn and grow. I am driven by an insatiable thirst for knowledge, and I am a strong believer in the power of community. My heart lies in imparting knowledge to others, and I constantly seek fresh avenues to engage with fellow learners and visionaries. I believe that by working together, we can build a brighter future for everyone.
+As an aspiring and enthusiastic learner in the field of technology, I am an engineer who is enthusiast about DevOps, Data Analysis, and Machine Learning I am passionate about the intersection of technology and innovation, and I am always looking for new ways to learn and grow. I am driven by an insatiable thirst for knowledge, and I am a strong believer in the power of community. My heart lies in imparting knowledge to others, and I constantly seek fresh avenues to engage with fellow learners and visionaries. I believe that by working together, we can build a brighter future for everyone. 
 
 ### 🧰 Languages and Tools
 
